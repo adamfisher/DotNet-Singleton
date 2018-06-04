@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard1.0</TargetFramework>
+    <Authors>Adam Fisher</Authors>
+    <Description>Inheritable C# singleton implementation.</Description>
+    <Copyright />
+    <PackageProjectUrl>https://github.com/adamfisher/DotNet-Singleton</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/adamfisher/DotNet-Singleton</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>singleton design-patterns singleton-pattern</PackageTags>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+</Project>
